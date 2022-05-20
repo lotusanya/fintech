@@ -39,5 +39,5 @@ fi
 done
 cd logs
 rm -rf *.log
-echo organization complete
+echo completed
 
