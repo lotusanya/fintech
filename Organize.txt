@@ -3,7 +3,7 @@ mfiles="*.mp3 *.flac"
 ifiles="*.jpg *.png"
 vfiles="*.avi *.mov"
 logfiles="*.log"
-others="*.*"
+other="*.*"
 for fo in $Folders
 do
 echo Making a directory $fo
