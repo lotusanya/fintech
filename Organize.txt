@@ -3,7 +3,6 @@ mfiles="*.mp3 *.flac"
 ifiles="*.jpg *.png"
 vfiles="*.avi *.mov"
 logfiles="*.log"
-other="*.*"
 for fo in $Folders
 do
 echo Making a directory $fo
@@ -39,5 +38,5 @@ fi
 done
 cd logs
 rm -rf *.log
-echo completed
+echo all done
 
